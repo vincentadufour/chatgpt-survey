@@ -11,6 +11,5 @@ During my Summer 2024 semester, I took 4 non-CS classes at MSU Denver (Biology a
 8. ?
 
 ## Research on Surveying
-- Read:
-	- [ ] [Self Reports: How the Questions Shape the Answers](https://cci.drexel.edu/faculty/sgasson/Readings/Schwarz%20%5B1999%5D%20Self-reports%20-%20How%20the%20questions%20shape%20the%20answers.pdf)
-	- [ ] [Designing Input Fields for Non-Narrative Open-Ended Responses in Web Surveys](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3570266/)
+- [ ] [Self Reports: How the Questions Shape the Answers](https://cci.drexel.edu/faculty/sgasson/Readings/Schwarz%20%5B1999%5D%20Self-reports%20-%20How%20the%20questions%20shape%20the%20answers.pdf)
+- [ ] [Designing Input Fields for Non-Narrative Open-Ended Responses in Web Surveys](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3570266/)
