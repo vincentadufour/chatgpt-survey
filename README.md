@@ -1,10 +1,3 @@
----
-created_date: 2024.09.23
-created_time: 10:37
-clerk: 
-summary: 
-tags:
----
 >[!info] What is this?
 > Survey question brainstorming for a project at MSU Denver
 
@@ -17,6 +10,8 @@ tags:
 ## Research on Surveying
 - Read:
 	- [ ] [Self Reports: How the Questions Shape the Answers](https://cci.drexel.edu/faculty/sgasson/Readings/Schwarz%20%5B1999%5D%20Self-reports%20-%20How%20the%20questions%20shape%20the%20answers.pdf)
-	- [ ] 
+	- [ ] [Designing Input Fields for Non-Narrative Open-Ended Responses in Web Surveys](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3570266/)
+
+## Questions
 
 
