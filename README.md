@@ -13,7 +13,7 @@ During my Summer 2024 semester, I took 4 non-CS classes at MSU Denver (Biology a
 9. **To measure levels of trust/confidence in ChatGPT**
    - Do students use ChatGPT to double-check answers, or to source answers?
 11. **To measure use rates across age ranges**
-    - MSU Denver has a uniquely varied age demographic which will mean seniors may have a wide age spread. Adding an age metric can help measure if there's a difference in use for returning students vs. students on a regular college track
+   - MSU Denver has a uniquely varied age demographic which will mean seniors may have a wide age spread. Adding an age metric can help measure if there's a difference in use for returning students vs. students on a regular college track
 13. **To measure how much/if ChatGPT has helped/hindered their learning**
 14. **To measure how much/if ChatGPT has helped/hindered their grades**
    - Separating learning from grades to see if students notice higher learning/higher grades or lower learning/higher grades, etc
