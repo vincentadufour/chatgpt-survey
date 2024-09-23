@@ -4,20 +4,20 @@ During my Summer 2024 semester, I took 4 non-CS classes at MSU Denver (Biology a
 ## Goal of Survey/Study
 1. **To measure how much students use generative AI tools like ChatGPT for their schoolwork**
    - MSU Denver? CU Denver? UCD?
-3. **To measure use rates across majors**
+2. **To measure use rates across majors**
    - Do some majors use ChatGPT more than others? How does the median compare to CS majors?
-5. **To measure use rates across years**
+3. **To measure use rates across years**
    - Freshman, Sophomore, Junior, Senior
-7. **To measure how much students use ChatGPT for schoolwork vs. personal reasons**
+4. **To measure how much students use ChatGPT for schoolwork vs. personal reasons**
    - To filter out irrelevant use
-9. **To measure levels of trust/confidence in ChatGPT**
+5. **To measure levels of trust/confidence in ChatGPT**
    - Do students use ChatGPT to double-check answers, or to source answers?
-11. **To measure use rates across age ranges**
+6. **To measure use rates across age ranges**
    - MSU Denver has a uniquely varied age demographic which will mean seniors may have a wide age spread. Adding an age metric can help measure if there's a difference in use for returning students vs. students on a regular college track
-13. **To measure how much/if ChatGPT has helped/hindered their learning**
-14. **To measure how much/if ChatGPT has helped/hindered their grades**
+7. **To measure how much/if ChatGPT has helped/hindered their learning**
+8. **To measure how much/if ChatGPT has helped/hindered their grades**
    - Separating learning from grades to see if students notice higher learning/higher grades or lower learning/higher grades, etc
-16. ?
+9. ?
 
 ## Research on Surveying
 - [x] [Schwartz, N. (1999). Self-reports: How questions shape answers. American Psychologist, 54 (2), 93-105](https://cci.drexel.edu/faculty/sgasson/Readings/Schwarz%20%5B1999%5D%20Self-reports%20-%20How%20the%20questions%20shape%20the%20answers.pdf)
