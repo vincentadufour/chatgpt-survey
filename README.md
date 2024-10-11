@@ -14,19 +14,32 @@ During my Summer 2024 semester, I took 4 non-CS classes at MSU Denver (Biology a
 5. **Create incentive for taking survey**
    - This could be done with funds from undergrad research grant, or another option
    - Will help incentivize students to take survey and increase dataset
-6. **Launch survey on campus**
+6. **Find survey system**
+   - Google Forms, Survey Monkey, or otherwise, need to find a survey software that'll meet my needs
+7. **Launch survey on campus**
    - Flyer with a QR code
       - Will require permission to put up in several buildings across campus
    - Email from department managers (Corrie Velazquez equivalents) to their student bodies?
    - Will need to be careful to be distributing the survey equally across campus to reduce location bias
-7. **Data cleaning**
-8. **Data analysis & visualizations**
+8. **Data cleaning**
+9. **Data analysis & visualizations**
    - Use qualitative data analysis & visualizations to support hypothesis
 10. **Create research paper**
    - Complete with an abstract, methodology, results, and conclusion
 11. **Present at Undergraduate Research Conference?**
    - Likely will depend on timing and results
 
+## Repository Structure
+```
+.
+├── data                         # will store questions and response csv
+│   └── questions.csv            # questions for survey
+├── README.md                    # README
+├── research_articles.md         # research articles and insights learned
+└── src
+    ├── data_cleaning.py         # will be using python to clean data
+    └── data_visualizations.py   # feature engineering and visualizations
+```
 
 ## Goal of Survey/Study
 1. **To measure how much students use generative AI tools like ChatGPT for their schoolwork**
@@ -44,15 +57,6 @@ During my Summer 2024 semester, I took 4 non-CS classes at MSU Denver (Biology a
 7. **To measure how much/if ChatGPT has helped/hindered their learning**
 8. **To measure how much/if ChatGPT has helped/hindered their grades**
    - Separating learning from grades to see if students notice higher learning/higher grades or lower learning/higher grades, etc
-9. ?
+9. 
 
-## Research on Surveying
-- [x] [Schwartz, N. (1999). Self-reports: How questions shape answers. American Psychologist, 54 (2), 93-105](https://cci.drexel.edu/faculty/sgasson/Readings/Schwarz%20%5B1999%5D%20Self-reports%20-%20How%20the%20questions%20shape%20the%20answers.pdf)
-   - Keep pragmatic meaning of a question in mind when asking something
-   - Use the four maxims to encourage cooperativeness from the speakers
-     - *Maxim of Relation*: Encourage the speaker to make their contribution relevant to the aims of the ongoing conversation.
-      - *Maxim of Quantity*: Encourage the speaker to make contributions informative, but not more informative than is required.
-      - *Maxim of Manner*: Encourage the speaker to make clear, not wordy, contributions.
-      - *Maxim of Quality*: Encourage the speaker not to make false contributions/
-   - 
-- [ ] [Couper, M. P., Kennedy, C., Frederick, F. G., & Tourangeau, R. (2011). Designing input fields for non-narrative open-ended responses in Web surveys. Journal of Official Statistics, 27, 85-85](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3570266/)
+
