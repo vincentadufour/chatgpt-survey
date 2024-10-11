@@ -6,7 +6,9 @@
       - *Maxim of Quantity*: Encourage the speaker to make contributions informative, but not more informative than is required.
       - *Maxim of Manner*: Encourage the speaker to make clear, not wordy, contributions.
       - *Maxim of Quality*: Encourage the speaker not to make false contributions/
-   - 
+   - Numeric scales used has an effect on survey responses: 
+   
+      - >"... Schwarz, Knäuper, et al. (1991) presented the success-in-life question with an 11-point rating scale that ranged either from 0 *(not at all successful)* to 10 *(extremely successful)*, or from -5 *(not at all successful)* to 5 *(extremely successful)*. The results showed a dramatic impact of the numeric values presented to respondents. Whereas 34% of the respondents endorsed a value between -5 and 0 on the -5 to 5 scale, only 13% endorsed one of the formally equivalent values between 0 and 5 on the 0-10 scale.
 - [ ] [Couper, M. P., Kennedy, C., Frederick, F. G., & Tourangeau, R. (2011). Designing input fields for non-narrative open-ended responses in Web surveys. Journal of Official Statistics, 27, 85-85](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3570266/)
 
 
