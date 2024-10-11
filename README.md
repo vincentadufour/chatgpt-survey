@@ -21,9 +21,10 @@ During my Summer 2024 semester, I took 4 non-CS classes at MSU Denver (Biology a
    - Will need to be careful to be distributing the survey equally across campus to reduce location bias
 7. **Data cleaning**
 8. **Data analysis & visualizations**
-9. **Create research paper**
+   - Use qualitative data analysis & visualizations to support hypothesis
+10. **Create research paper**
    - Complete with an abstract, methodology, results, and conclusion
-10. **Present at Undergraduate Research Conference?**
+11. **Present at Undergraduate Research Conference?**
    - Likely will depend on timing and results
 
 
