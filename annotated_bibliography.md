@@ -64,6 +64,7 @@ Baek, C., Tate, T., & Warschauer,  mark. (2023). “CHATGPT Seems Too Good to Be
 
 
  **Citation:**
+ 
 Chan, C. K. Y., & Hu, W. (2023). Students’ voices on Generative AI: Perceptions, benefits, and challenges in Higher Education. International Journal of Educational Technology in Higher Education, 20(1). https://doi.org/10.1186/s41239-023-00411-8 
 
 **Annotation:**
