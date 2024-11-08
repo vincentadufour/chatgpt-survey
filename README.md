@@ -41,22 +41,15 @@ During my Summer 2024 semester, I took 4 non-CS classes at MSU Denver (Biology a
     └── data_visualizations.py   # feature engineering and visualizations
 ```
 
-## Goal of Survey/Study
-1. **To measure how much students use generative AI tools like ChatGPT for their schoolwork**
-   - MSU Denver? CU Denver? UCD?
-2. **To measure use rates across majors**
-   - Do some majors use ChatGPT more than others? How does the median compare to CS majors?
-3. **To measure use rates across years**
-   - Freshman, Sophomore, Junior, Senior
-4. **To measure how much students use ChatGPT for schoolwork vs. personal reasons**
-   - To filter out irrelevant use
-5. **To measure levels of trust/confidence in ChatGPT**
-   - Do students use ChatGPT to double-check answers, or to source answers?
-6. **To measure use rates across age ranges**
-   - MSU Denver has a uniquely varied age demographic which will mean seniors may have a wide age spread. Adding an age metric can help measure if there's a difference in use for returning students vs. students on a regular college track
-7. **To measure how much/if ChatGPT has helped/hindered their learning**
-8. **To measure how much/if ChatGPT has helped/hindered their grades**
-   - Separating learning from grades to see if students notice higher learning/higher grades or lower learning/higher grades, etc
-9. 
+## Study Hypotheses
+
+- **H1:** Computer Science students have a disproportionate increase in academic performance when using generative AI for academic work than other majors.
+- **H2:** Use of generative AI for academic work affects student's academic performance differently based on their major and coursework.
+
+## Research Questions
+
+- **RQ1:** Do students in certain majors use generative AI for academic work more than others?
+- **RQ2:** How does high generative AI use in an academic setting affect academic performance?
+- **RQ3:** What are the ways students in different majors benefit from generative AI use?
 
 
