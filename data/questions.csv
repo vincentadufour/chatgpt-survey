@@ -5,7 +5,7 @@ question_ID,question,purpose_of_question,technique,note
 4,What is your major?,sort by major,Typed string,"I can clean up inconsistencies later, but important to make sure all majors are represented"
 5,What is your current GPA?,GPA metric,Typed numerical,Self-reporting will limit accuracy of study
 6,How often do you use generative AI to help with schoolwork within your degree?,frequency of generative AI use,Likert Scale,"1 - I never use generative AI for my assignments, 2 - Rarely, for less than 10% of my assignments, 3 - Occasionally, for about 30% of my assignments, 4 - Sometimes, for about 50% of my assignments,  5 - Frequently, for about 70% of my assignments, 6 - Usually, for about 90% of my assignments, 7 - I use generative AI for all of my assignments"
-7,Using generative AI has improved my grades.,grade metric,Likert Scale,"1 - Strongly disagree, , 2 - Disagree, 3 - Somewhat disagree, 4 - Neither agree or disagree, 5 - Somewhat agree, 6 - Agree, 7 - Strongly agree"
+7,Using generative AI has improved my grades.,grade metric,Likert Scale,"1 - Strongly disagree, 2 - Disagree, 3 - Somewhat disagree, 4 - Neither agree or disagree, 5 - Somewhat agree, 6 - Agree, 7 - Strongly agree"
 8,How has generative AI affected your grades?,grade metric,Open-ended question,Will perform sentiment analysis on these responses
 9,Using generative AI has helped me learn the material in my degree.,learning metric,Likert Scale,"1 - Strongly disagree, 2 - Disagree, 3 - Somewhat disagree, 4 - Neither agree or disagree, 5 - Somewhat agree, 6 - Agree, 7 - Strongly agree"
 10,How has generative AI affected your learning?,learning metric,Open-ended question,Will perform sentiment analysis on these responses
