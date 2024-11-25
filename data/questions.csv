@@ -1,11 +1,11 @@
-question_ID,question,purpose_of_question,technique,note
-1,Please select the university you're attending.,sort by univ,Drop down,Limited to the three universities on campus
-2,Please select your year within your degree.,sort by year,Drop down,"freshman, sophomore, junior, senior"
-3,Please select your age range.,age metric for generative AI use,Drop down,
-4,What is your major?,sort by major,Typed string,"I can clean up inconsistencies later, but important to make sure all majors are represented"
-5,What is your current GPA?,GPA metric,Typed numerical,Self-reporting will limit accuracy of study
-6,How often do you use generative AI to help with schoolwork within your degree?,frequency of generative AI use,Likert Scale,"1 - I never use generative AI for my assignments, 2 - Rarely, for less than 10% of my assignments, 3 - Occasionally, for about 30% of my assignments, 4 - Sometimes, for about 50% of my assignments,  5 - Frequently, for about 70% of my assignments, 6 - Usually, for about 90% of my assignments, 7 - I use generative AI for all of my assignments"
-7,Using generative AI has improved my grades.,grade metric,Likert Scale,"1 - Strongly disagree, 2 - Disagree, 3 - Somewhat disagree, 4 - Neither agree or disagree, 5 - Somewhat agree, 6 - Agree, 7 - Strongly agree"
-8,How has generative AI affected your grades?,grade metric,Open-ended question,Will perform sentiment analysis on these responses
-9,Using generative AI has helped me learn the material in my degree.,learning metric,Likert Scale,"1 - Strongly disagree, 2 - Disagree, 3 - Somewhat disagree, 4 - Neither agree or disagree, 5 - Somewhat agree, 6 - Agree, 7 - Strongly agree"
-10,How has generative AI affected your learning?,learning metric,Open-ended question,Will perform sentiment analysis on these responses
+question ID,question,purpose of question,technique,notes
+1,Please select the university you're attending,sorting results by university (does your university impact your perception/frequency of use of AI?),Drop down,Limited to the three universities on campus
+2,Please select your year within your degree,sort by year (do certain year students use generative AI more than others? How does this affect their grades and/or perceptions?,Drop down,"freshman, sophomore, junior, senior, master's, doctorate"
+3,Please select your age range,age metric for generative AI use (does a certain age group use generative AI more than others? How does this affect their grades and/or perceptions?),Drop down,
+4,What is your major?,sort by major (directly supports RQ1),Typed string/Short Answer,"It may not be preferrable to use a dropdown because of all the different majors available at all three universities. I can clean up inconsistencies later, but important to make sure all majors are represented."
+5,What is your current GPA?,Academic performance metric (directly supports RQ2),Typed numerical,Self-reporting will limit accuracy of study
+6,How often do you use generative AI to help with schoolwork within your degree?,Frequency of generative AI use,Likert Scale,"1 - I never use generative AI for my assignments, 2 - Rarely, for less than 10% of my assignments, 3 - Occasionally, for about 30% of my assignments, 4 - Sometimes, for about 50% of my assignments, 5 - Frequently, for about 70% of my assignments, 6 - Usually, for about 90% of my assignments, 7 - I use generative AI for all of my assignments"
+7,Using generative AI has improved my grades.,Usefulness & academic performance metric,Likert Scale,"1 - Strongly disagree, 2 - Disagree, 3 - Somewhat disagree, 4 - Neither agree or disagree, 5 - Somewhat agree, 6 - Agree, 7 - Strongly agree"
+8,How has generative AI affected your grades?,Usefulness & academic performance metric,Typed string/Long answer,Will perform sentiment analysis on these responses
+9,Using generative AI has helped me learn the material in my degree.,Learning & AI perception metric,Likert Scale,"1 - Strongly disagree, 2 - Disagree, 3 - Somewhat disagree, 4 - Neither agree or disagree, 5 - Somewhat agree, 6 - Agree, 7 - Strongly agree"
+10,How has generative AI affected your learning?,Learning & AI perception metric,Typed string/Long answer,Will perform sentiment analysis on these responses

@@ -48,8 +48,8 @@ During my Summer 2024 semester, I took 4 non-CS classes at MSU Denver (Biology a
 
 ## Research Questions
 
-- **RQ1:** Do students in certain majors use generative AI for academic work more than others?
-- **RQ2:** How does high generative AI use in an academic setting affect academic performance?
-- **RQ3:** What are the ways students in different majors benefit from generative AI use?
+- **RQ1:** To what extent do students in different majors use generative AI for academic work?
+- **RQ2:** How does high use of generative AI in academic settings correlate with academic performance?
+- **RQ3:** In what ways do students in different majors perceive benefits from generative AI use in academic work?
 
 
